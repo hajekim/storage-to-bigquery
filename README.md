@@ -5,11 +5,12 @@ This paper describe how to load data from Cloud Storage to BigQuery on automatic
 
 ## Material
 
-- [Google Cloud Storage](https://cloud.google.com/storage/)
-- [Google BigQuery](https://cloud.google.com/bigquery/)
-- [Google Cloud Functions](https://cloud.google.com/functions/docs/concepts/overview)
-- Sample CSV files
+- [Google Cloud Storage](https://cloud.google.com/storage/) : Google Cloud의 Object Storage (likely AWS S3)
+- [Google BigQuery](https://cloud.google.com/bigquery/) : Google Cloud의 Data Warehouse (likely AWS Redshift)
+- [Google Cloud Functions](https://cloud.google.com/functions/docs/concepts/overview) : Google Cloud의 Severless Computeing Service (likely AWS Lambda)
+- Sample CSV files : What do you want data are loaded to BigQuery?
 
 
 
 ## Method
+
